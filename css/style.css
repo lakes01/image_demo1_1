@@ -97,6 +97,10 @@ p {
 .minor-column {
 		padding: .5rem;
 }
+img {
+	/* width: 100%;
+	display: block; */
+}
 
 
 /* media query 1: define styles that should only kick in if screen is above 561 pixels wide... */
